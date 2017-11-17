@@ -1,0 +1,15 @@
+{
+  "name": "contact-list",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo error"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.3"
+  }
+}
